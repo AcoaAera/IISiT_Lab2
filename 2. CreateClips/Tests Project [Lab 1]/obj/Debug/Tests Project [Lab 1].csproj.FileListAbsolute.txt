@@ -1,0 +1,39 @@
+C:\Users\GLOW\source\repos\Tests Project [Lab 1]\Tests Project [Lab 1]\bin\Debug\Tests Project [Lab 1].exe.config
+C:\Users\GLOW\source\repos\Tests Project [Lab 1]\Tests Project [Lab 1]\bin\Debug\Tests Project [Lab 1].exe
+C:\Users\GLOW\source\repos\Tests Project [Lab 1]\Tests Project [Lab 1]\bin\Debug\Tests Project [Lab 1].pdb
+C:\Users\GLOW\source\repos\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests Project [Lab 1].csprojAssemblyReference.cache
+C:\Users\GLOW\source\repos\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests_Project__Lab_1_.Form1.resources
+C:\Users\GLOW\source\repos\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests_Project__Lab_1_.Properties.Resources.resources
+C:\Users\GLOW\source\repos\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests Project [Lab 1].csproj.GenerateResource.cache
+C:\Users\GLOW\source\repos\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests Project [Lab 1].csproj.CoreCompileInputs.cache
+C:\Users\GLOW\source\repos\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests Project [Lab 1].exe
+C:\Users\GLOW\source\repos\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests Project [Lab 1].pdb
+C:\Users\GLOW\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 1\Tests Project [Lab 1]\Tests Project [Lab 1]\bin\Debug\Tests Project [Lab 1].exe.config
+C:\Users\GLOW\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 1\Tests Project [Lab 1]\Tests Project [Lab 1]\bin\Debug\Tests Project [Lab 1].exe
+C:\Users\GLOW\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 1\Tests Project [Lab 1]\Tests Project [Lab 1]\bin\Debug\Tests Project [Lab 1].pdb
+C:\Users\GLOW\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 1\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests Project [Lab 1].csprojAssemblyReference.cache
+C:\Users\GLOW\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 1\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests_Project__Lab_1_.Form1.resources
+C:\Users\GLOW\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 1\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests_Project__Lab_1_.Properties.Resources.resources
+C:\Users\GLOW\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 1\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests Project [Lab 1].csproj.GenerateResource.cache
+C:\Users\GLOW\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 1\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests Project [Lab 1].csproj.CoreCompileInputs.cache
+C:\Users\GLOW\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 1\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests Project [Lab 1].exe
+C:\Users\GLOW\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 1\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests Project [Lab 1].pdb
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\2. MyClips\Tests Project [Lab 1]\Tests Project [Lab 1]\bin\Debug\Tests Project [Lab 1].exe.config
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\2. MyClips\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests Project [Lab 1].exe
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\2. MyClips\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests Project [Lab 1].pdb
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\2. MyClips\Tests Project [Lab 1]\Tests Project [Lab 1]\bin\Debug\Tests Project [Lab 1].exe
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\2. MyClips\Tests Project [Lab 1]\Tests Project [Lab 1]\bin\Debug\Tests Project [Lab 1].pdb
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\2. MyClips\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests Project [Lab 1].csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\2. MyClips\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests_Project__Lab_1_.Form1.resources
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\2. MyClips\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests_Project__Lab_1_.Properties.Resources.resources
+C:\Users\HP\Desktop\Учеба\4 курс\7 семестр\ИИСиТ\2. MyClips\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests Project [Lab 1].csproj.GenerateResource.Cache
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 1\Tests Project [Lab 1]\Tests Project [Lab 1]\bin\Debug\Tests Project [Lab 1].exe.config
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 1\Tests Project [Lab 1]\Tests Project [Lab 1]\bin\Debug\Tests Project [Lab 1].exe
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 1\Tests Project [Lab 1]\Tests Project [Lab 1]\bin\Debug\Tests Project [Lab 1].pdb
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 1\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests Project [Lab 1].csprojAssemblyReference.cache
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 1\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests_Project__Lab_1_.Form1.resources
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 1\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests_Project__Lab_1_.Properties.Resources.resources
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 1\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests Project [Lab 1].csproj.GenerateResource.cache
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 1\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests Project [Lab 1].csproj.CoreCompileInputs.cache
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 1\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests Project [Lab 1].exe
+C:\Users\Vanya\Desktop\Study\4 курс\7 семестр\Интеллектуальные ИСИТ\lab 1\Tests Project [Lab 1]\Tests Project [Lab 1]\obj\Debug\Tests Project [Lab 1].pdb
